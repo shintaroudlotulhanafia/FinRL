@@ -1354,6 +1354,38 @@ SRI_KEHATI_TICKER = [
     "WTON.JK",
 ]
 
+JII_TICKER = [
+            "ADRO.JK",
+            "ANTM.JK",
+            "BRIS.JK",
+            "BRPT.JK",
+            "BUKA.JK",
+            "CPIN.JK",
+            "EMTK.JK",
+            "ERAA.JK",
+            "EXCL.JK",
+            "ICBP.JK",
+            "INCO.JK",
+            "INDF.JK",
+            "INKP.JK",
+            "INTP.JK",
+            "ITMG.JK",
+            "JPFA.JK",
+            "KLBF.JK",
+            "MIKA.JK",
+            "MNCN.JK",
+            "PGAS.JK",
+            "PTBA.JK",
+            "PTPP.JK",
+            "SMGR.JK",
+            "TINS.JK",
+            "TKIM.JK",
+            "TLKM.JK",
+            "TPIA.JK",
+            "UNTR.JK",
+            "UNVR.JK",
+            "WIKA.JK"]
+
 # FX Ticker
 FX_TICKER = [
     "AUDCAD=X",
