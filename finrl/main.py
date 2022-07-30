@@ -6,7 +6,6 @@ from typing import List
 
 from finrl.config import ALPACA_API_BASE_URL
 from finrl.config import DATA_SAVE_DIR
-from finrl.config import DATA_PER_TIC_DIR
 from finrl.config import ERL_PARAMS
 from finrl.config import INDICATORS
 from finrl.config import RESULTS_DIR
@@ -54,7 +53,7 @@ def main() -> int:
     parser = build_parser()
     options = parser.parse_args()
     check_and_make_directories(
-        [DATA_SAVE_DIR, DATA_PER_TIC_DIR, TRAINED_MODEL_DIR, TENSORBOARD_LOG_DIR, RESULTS_DIR]
+        [DATA_SAVE_DIR, TRAINED_MODEL_DIR, TENSORBOARD_LOG_DIR, RESULTS_DIR]
     )
 
     if options.mode == "train":
