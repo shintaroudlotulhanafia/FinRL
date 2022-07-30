@@ -2,7 +2,6 @@
 from __future__ import annotations
 
 DATA_SAVE_DIR = "datasets"
-DATA_PER_TIC_DIR = "datasets/datasets_per_tic"
 TRAINED_MODEL_DIR = "trained_models"
 TENSORBOARD_LOG_DIR = "tensorboard_log"
 RESULTS_DIR = "results"
