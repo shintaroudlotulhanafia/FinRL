@@ -27,7 +27,7 @@ class StockTradingEnv(gym.Env):
         stock_dim: int,
         hmax: int,
         initial_amount: int,
-        num_stock_shares: list[int],
+        #num_stock_shares: list[int],
         buy_cost_pct: list[float],
         sell_cost_pct: list[float],
         reward_scaling: float,
