@@ -2,6 +2,39 @@ from __future__ import annotations
 
 SINGLE_TICKER = ["AAPL"]
 
+JII_TICKER = [
+    "ADRO.JK",
+    "ANTM.JK",
+    "BRIS.JK",
+    "BRPT.JK",
+    "CPIN.JK",
+    "EMTK.JK",
+    "ERAA.JK",
+    "EXCL.JK",
+    "HRUM.JK",
+    "ICBP.JK",
+    "INCO.JK",
+    "INDF.JK",
+    "INKP.JK",
+    "INTP.JK",
+    "ITMG.JK",
+    "JPFA.JK",
+    "KLBF.JK",
+    "MDKA.JK",
+    "MIKA.JK",
+    "MNCN.JK",
+    "PGAS.JK",
+    "PTBA.JK",
+    "SCMA.JK",
+    "SMGR.JK",
+    "TINS.JK",
+    "TLKM.JK",
+    "TPIA.JK",
+    "UNTR.JK",
+    "UNVR.JK",
+    "WIKA.JK"
+]
+
 # Dow 30 constituents in 2021/10
 # check https://wrds-www.wharton.upenn.edu/ for U.S. index constituents
 DOW_30_TICKER = [
