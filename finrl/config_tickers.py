@@ -2,7 +2,7 @@ from __future__ import annotations
 
 SINGLE_TICKER = ["AAPL"]
 
-SelectedMultipleTickers = ['BRPT.JK' 'KLBF.JK' 'SCMA.JK' 'UNVR.JK']
+SelectedMultipleTickers = ['BRPT.JK', 'KLBF.JK', 'SCMA.JK', 'UNVR.JK']
 
 JII_TICKER = [
     "ADRO.JK",
