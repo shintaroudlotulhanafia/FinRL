@@ -4,7 +4,7 @@ SINGLE_TICKER = ["AAPL"]
 
 SelectedMultipleTickers = ['BRPT.JK', 'KLBF.JK', 'SCMA.JK', 'UNVR.JK']
 
-#deleted JII_TICKER:"BRPT.JK","KLBF.JK","SCMA.JK","UNVR.JK",
+#deleted JII_TICKER:"BRPT.JK","KLBF.JK","SCMA.JK","UNVR.JK","TPIA.JK"
 JII_TICKER = [
     "ADRO.JK",
     "ANTM.JK",
@@ -29,7 +29,6 @@ JII_TICKER = [
     "SMGR.JK",
     "TINS.JK",
     "TLKM.JK",
-    "TPIA.JK",
     "UNTR.JK",
     "WIKA.JK"
 ]
