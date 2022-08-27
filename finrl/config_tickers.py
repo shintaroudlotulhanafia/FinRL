@@ -31,7 +31,7 @@ JII_TICKER = [
     "SCMA.JK",
     "SMGR.JK",
     "TINS.JK",
-    "TPIA.JK"
+    "TPIA.JK",
     "TLKM.JK",
     "UNTR.JK",
     "UNVR.JK",
